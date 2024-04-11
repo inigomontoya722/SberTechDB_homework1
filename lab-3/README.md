@@ -35,6 +35,8 @@
       Remote: new PouchDB('http://admin:1213@localhost:5984/mydatabase')
     }
     ```
+    Вот измененный html файл:
+    [html файл](./original/hw2.html)
 
     Разрешим CORS через Configuration -> CORS -> Enable CORS -> All domains (*):
 
